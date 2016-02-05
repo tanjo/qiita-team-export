@@ -1,0 +1,16 @@
+{
+  "name": "qiitateamexport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "$(npm bin)/quiita-team qiitateam.json --outdir=output/ --cookie=cookies.txt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "quiita-team": "git+https://github.com/okaxaki/quiita-team.git"
+  },
+  "private": true
+}
