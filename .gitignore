@@ -7,3 +7,4 @@
 !*.coffee
 !package.json
 !.gitignore
+!README.md
