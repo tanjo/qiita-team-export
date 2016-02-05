@@ -6,6 +6,8 @@ https://github.com/okaxaki/quiita-team
 
 # コマンド
 
+ダウンロードしたファイルの名前を `qiitateam.json` にしておく
+
 ```
 npm install
 npm run nocookies
